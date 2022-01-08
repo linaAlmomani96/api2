@@ -1,0 +1,17 @@
+C:\Users\TOSHIBA\source\repos\Tahaluf.Portal\Tahaluf.Portal.Core\bin\Debug\netcoreapp3.1\Tahaluf.Portal.Core.deps.json
+C:\Users\TOSHIBA\source\repos\Tahaluf.Portal\Tahaluf.Portal.Core\bin\Debug\netcoreapp3.1\Tahaluf.Portal.Core.dll
+C:\Users\TOSHIBA\source\repos\Tahaluf.Portal\Tahaluf.Portal.Core\bin\Debug\netcoreapp3.1\Tahaluf.Portal.Core.pdb
+C:\Users\TOSHIBA\source\repos\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.dll
+C:\Users\TOSHIBA\source\repos\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.pdb
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\bin\Debug\netcoreapp3.1\Tahaluf.Portal.Core.deps.json
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\bin\Debug\netcoreapp3.1\Tahaluf.Portal.Core.dll
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\bin\Debug\netcoreapp3.1\Tahaluf.Portal.Core.pdb
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.dll
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.pdb
+C:\Users\TOSHIBA\Desktop\Tahaluf.Portal\Tahaluf.Portal.Core\obj\Debug\netcoreapp3.1\Tahaluf.Portal.Core.csprojAssemblyReference.cache
